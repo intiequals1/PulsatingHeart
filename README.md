@@ -15,7 +15,7 @@ Eine Java-Anwendung mit einem pulsierenden Herz und Zähler
 
 ### Option 1: Direkte Ausführung der JAR-Datei
 
-1. Laden Sie die [neueste Version](https://github.com/IhrBenutzername/PulsatingHeart/releases) herunter
+1. Laden Sie die [neueste Version](https://github.com/intiequals1/PulsatingHeart/releases) herunter
 2. Doppelklicken Sie auf die JAR-Datei oder führen Sie sie mit folgendem Befehl aus:
    ```
    java -jar PulsatingHeart.jar
